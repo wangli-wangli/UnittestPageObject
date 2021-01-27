@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b585c7d1-5cfa-4371-8a35-dc3ca90c78c5" name="69服务器" url="https://222.128.56.247">
+        <fileTransfer host="222.128.56.247" port="9600" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="9600" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
